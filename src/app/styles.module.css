@@ -1,0 +1,9 @@
+.mainWrapper {
+    max-width: 450px;
+    width: 450px;
+    position: relative;
+}
+.buttonWrapper {
+    display: flex;
+    justify-content: space-between;
+}
